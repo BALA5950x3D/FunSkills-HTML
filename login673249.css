@@ -1,0 +1,111 @@
+.login673249-container {
+  min-height: 100vh;
+}
+.login673249-login673249 {
+  width: 428px;
+  height: 926px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  max-width: 428px;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1px;
+  background-color: rgba(0, 0, 0, 1);
+}
+.login673249-text {
+  top: 213px;
+  left: 168px;
+  color: rgba(255, 255, 255, 1);
+  width: 102px;
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.login673249-text1 {
+  color: rgba(255, 255, 255, 1);
+  width: 102px;
+  height: auto;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 400;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.login673249-navlink {
+  display: contents;
+}
+.login673249-image {
+  top: 519px;
+  left: 81px;
+  width: 266px;
+  height: 62px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+  border-radius: 50px;
+  background-color: rgba(6, 73, 173, 1);
+}
+.login673249-text2 {
+  top: 539px;
+  left: 127px;
+  color: rgba(255, 255, 255, 1);
+  width: 137px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.login673249-text3 {
+  color: rgba(255, 255, 255, 1);
+  width: 137px;
+  height: auto;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 400;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.login673249-navlink1 {
+  display: contents;
+}
+.login673249-image1 {
+  top: 532px;
+  left: 267px;
+  width: 36px;
+  height: 36px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+}
+.login673249-navlink2 {
+  display: contents;
+}
+.login673249-image2 {
+  top: 418px;
+  left: 80px;
+  width: 265px;
+  height: 62px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+}
