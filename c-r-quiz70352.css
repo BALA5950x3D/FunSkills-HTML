@@ -1,0 +1,31 @@
+.c-r-quiz70352-container {
+  min-height: 100vh;
+}
+.c-r-quiz70352-c-r-quiz70352 {
+  width: 428px;
+  height: 926px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  max-width: 428px;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+  background-color: rgba(0, 0, 0, 1);
+}
+.c-r-quiz70352-navlink {
+  display: contents;
+}
+.c-r-quiz70352-image {
+  top: 34px;
+  left: 14px;
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+}
+#Quiz{
+  top: 50px;
+  position: absolute;
+}
