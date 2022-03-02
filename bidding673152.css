@@ -1,0 +1,176 @@
+/*Created By Bala Shanmugam*/
+/*License: GNU GPL 3.0*/
+
+.bidding673152-container {
+  min-height: 100vh;
+}
+.bidding673152-bidding673152 {
+  width: 428px;
+  height: 926px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  max-width: 428px;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+  background-color: rgba(0, 0, 0, 1);
+}
+.bidding673152-text {
+  top: 94px;
+  left: 113px;
+  color: rgba(255, 255, 255, 1);
+  width: 202px;
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.bidding673152-text1 {
+  color: rgba(255, 255, 255, 1);
+  width: 202px;
+  height: auto;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 400;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.bidding673152-svg {
+  top: 760px;
+  left: 84px;
+  width: 265;
+  height: 82;
+  position: absolute;
+}
+.bidding673152-text2 {
+  top: 781px;
+  left: 138px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.bidding673152-text3 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 400;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.bidding673152-image {
+  top: 34px;
+  left: 14px;
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+}
+.bidding673152-svg1 {
+  top: 393px;
+  left: 44px;
+  width: 338;
+  height: 56;
+  position: absolute;
+}
+.bidding673152-svg2 {
+  top: 285px;
+  left: 45px;
+  width: 338;
+  height: 56;
+  position: absolute;
+}
+.bidding673152-text4 {
+  top: 300px;
+  left: 58px;
+  color: rgba(255, 255, 255, 1);
+  width: 95px;
+  height: auto;
+  opacity: 0.75;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.bidding673152-text5 {
+  color: rgba(255, 255, 255, 1);
+  width: 95px;
+  height: auto;
+  opacity: 0.75;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 400;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.bidding673152-text6 {
+  top: 407px;
+  left: 58px;
+  color: rgba(255, 255, 255, 1);
+  width: 166px;
+  height: auto;
+  opacity: 0.75;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.bidding673152-text7 {
+  color: rgba(255, 255, 255, 1);
+  width: 166px;
+  height: auto;
+  opacity: 0.75;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 400;
+  font-stretch: normal;
+  text-decoration: none;
+}
+#TypePrice4 {
+  position: absolute;
+  top: 400px;
+  left: 43px;
+  width: 340px;
+  height: 56px;
+  border-radius: 10px;
+  border-color: white;
+  border-width: 3px;
+  background-color: rgba(0, 0, 0, 1);
+  color: white;
+  outline: none;
+}
+
